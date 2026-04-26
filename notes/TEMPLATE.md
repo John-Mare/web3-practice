@@ -1,4 +1,4 @@
-# 2026-04-xx | HackQuest Day xx
+# 2026-xx-xx | HackQuest + Gemini learn Day xx
 
 ## Today's Learning Objectives
 
